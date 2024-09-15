@@ -1,0 +1,11 @@
+Training algorithms to predict who survived in the Titanic.
+
+5 different algorithms used:
+
+    Logistic Regression
+    Support Vector Machine
+    Multilayer Perceptor
+    Random Forest
+    Boosted Trees
+
+Train and test data download from Kaggle and results submitted in Kaggle Competition: Titanic-Machine Learning from Disaster. 
